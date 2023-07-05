@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img src="[https://github-profile-trophy.vercel.app/?username=51vinay](https://stock.adobe.com/in/search?k=programmer+cartoon&asset_id=313404541)" alt="51vinay" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=51vinay&label=Profile%20views&color=0e75b6&style=flat" alt="51vinay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=51vinay" alt="51vinay" /></a> </p>
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **AI, ML , Javascript,RestAPI, Mongodb**
 
-- 👯 I’m looking to collaborate on **Ecommerce**
+- 👯 I’m looking to collaborate on **E-commerce**
 
-- 💬 Ask me about releted python django and MySQL **HTML,CSS,Python,Django.Mysql,Bootsrap**
+- 💬 Ask me about related python Django and MySQL **HTML, CSS, Python, Django.Mysql,Bootstrap**
 
-- 📫 How to reach me throgh Linkdin **vinaysharma5335@gmail.com**
+- 📫 How to reach me through Linkedin **vinaysharma5335@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
