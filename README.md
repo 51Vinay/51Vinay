@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **E-commerce**
 
-- 💬 Ask me about related python Django and MySQL **HTML, CSS, Python, Django.Mysql,Bootstrap**
+- 💬 Ask me about **HTML, CSS, Python, Django.Mysql,Bootstrap**
 
 - 📫 How to reach me through Linkedin **vinaysharma5335@gmail.com**
 
