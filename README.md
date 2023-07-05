@@ -1,13 +1,12 @@
 <img align="center" alt="Coding"  src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+
 
 <h1 align="center">Hi 👋, I'm Vinay Kumar Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img src="[https://github-profile-trophy.vercel.app/?username=51vinay](https://stock.adobe.com/in/search?k=programmer+cartoon&asset_id=313404541)" alt="51vinay" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=51vinay&label=Profile%20views&color=0e75b6&style=flat" alt="51vinay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=51vinay" alt="51vinay" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 - 🔭 I’m currently working on **Ecommerce**
 
 - 🌱 I’m currently learning **AI, ML , Javascript,RestAPI, Mongodb**
