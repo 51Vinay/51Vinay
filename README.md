@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=51vinay&label=Profile%20views&color=0e75b6&style=flat" alt="51vinay" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently working on **E-commerce**
 
-- 🌱 I’m currently learning **AI, ML , Javascript,RestAPI, Mongodb**
+- 🌱 I’m currently learning **AI, ML, Javascript, RestAPI, Mongodb**
 
 - 👯 I’m looking to collaborate on **E-commerce**
 
-- 💬 Ask me about **HTML, CSS, Python, Django.Mysql,Bootstrap**
+- 💬 Ask me about **HTML, CSS, Python, Django.Mysql, Bootstrap**
 
 - 📫 How to reach me through Linkedin **vinaysharma5335@gmail.com**
 
