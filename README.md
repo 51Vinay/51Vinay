@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning **AI, ML, Javascript, RestAPI, Mongodb**
 
 - 👯 I’m looking to collaborate on **E-commerce**
-
 - 💬 Ask me about **HTML, CSS, Python, Django.Mysql, Bootstrap**
 
 - 📫 How to reach me through Linkedin **vinaysharma5335@gmail.com**
@@ -19,7 +18,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=51vinay" alt="51vinay" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vinay kumar sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay kumar sharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vinaysharmasln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay kumar sharma" height="30" width="40" /></a>
 <a href="https://fb.com/er vinay sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="er vinay sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/vinay_3349_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinay_3349_" height="30" width="40" /></a>
 </p>
