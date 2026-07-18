@@ -135,12 +135,85 @@ Clients     : Finfinity | Grihum Housing Finance | Agilus | Poonawalla Fincorp
 
 ## 🧩 Key Projects
 
-| Project | Client | Platform | Impact |
-|---|---|---|---|
-| 🏦 **Finfinity Microservices Platform** | Finfinity | AWS EKS | 15+ services, 99.9% uptime, 50% faster deployments |
-| 🏠 **CollectFlow Deployment** | Grihum Housing Finance | Docker + AWS | 5 services, full VAPT hardening, multi-env CI/CD |
-| 🔐 **RBAC Platform** | Agilus | Docker + AWS ECR | Full DR setup, VAPT remediation, multi-env pipeline |
-| 💼 **Vendor Management System** | Poonawalla Fincorp | Docker + Nginx | 4 services, UAT deployment, Iraje PAM access control |
+---
+
+### 🏦 Finfinity — Production Microservices Platform on AWS EKS
+> **Client:** Finfinity &nbsp;|&nbsp; **Domain:** Fintech &nbsp;|&nbsp; **Duration:** Oct 2023 – Present
+
+![AWS EKS](https://img.shields.io/badge/AWS%20EKS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=flat-square&logo=sonarqube&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK%20Stack-%23005571.svg?style=flat-square&logo=elastic&logoColor=white)
+
+```text
+🎯 Impact  : 15+ microservices | 99.9% uptime | 50% faster deployments
+```
+
+- 🚀 Deployed **15+ containerized microservices** on AWS EKS with **3-tier VPC** (Public / Private App / Private DB), HPA, ALB, and zero-downtime rolling deployments
+- 🔁 Built Git branch-based CI/CD pipeline — `Dev → SIT | UAT → UAT | Master → Production | Hotfix → Production` with release tagging, reducing deployment time by **50%** and enabling automated rollback
+- 📊 Established centralized observability with **Prometheus + Grafana + ELK Stack** across all environments
+- 🔐 Hardened security by remediating full VAPT audit — **XSS, CSP headers, version disclosure, IP blocking, TLS enforcement, file upload limits, session timeout**
+
+---
+
+### 🏠 CollectFlow — Docker-Based Multi-Environment Deployment
+> **Client:** Grihum Housing Finance &nbsp;|&nbsp; **Domain:** BFSI / Housing Finance &nbsp;|&nbsp; **Duration:** Dec 2023 – Present
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS%20ECR-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=flat-square&logo=apache&logoColor=white)
+
+```text
+🎯 Impact  : 5 services fully containerized | Full VAPT hardening | 3-env CI/CD pipeline
+```
+
+- 🐳 Dockerized **5 services** (Backend, Frontend, CommandCentre, DMS, BRE) with environment-specific image versioning across SIT, UAT & Production on DockerHub and AWS ECR
+- 🔁 Implemented Git branch-based CI/CD with automated deployments via **Jenkins & GitHub Actions** across all environments with versioned release tagging
+- 🌐 Configured **Apache reverse proxy** with FortiClient VPN access, domain setup, and SSL/TLS termination; managed per-service routing across UAT and Production
+- 🔐 Resolved full VAPT audit findings — **XSS, CSP, version disclosure, IP blocking, TLS hardening, missing security headers, file upload restrictions, session timeout**
+
+---
+
+### 🔐 RBAC — Role-Based Access Control Platform
+> **Client:** Agilus &nbsp;|&nbsp; **Domain:** Enterprise Access Management &nbsp;|&nbsp; **Duration:** Jan 2026 – Present
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS%20ECR-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=flat-square&logo=apache&logoColor=white)
+
+```text
+🎯 Impact  : Multi-env pipeline | DR setup with failover | Full VAPT remediation
+```
+
+- 🐳 Dockerized **Secflow RBAC and DMS modules** with environment-specific image versioning; managed multi-instance SIT / UAT / Production setup on AWS ECR
+- 🔁 Built end-to-end CI/CD pipeline using **Jenkins & GitHub Actions** with Git branch strategy, release tagging, and automated multi-environment deployments
+- 🌐 Configured **Apache reverse proxy** with SSL/TLS termination, domain routing, and multi-environment certificate management
+- 🛡️ Set up **Disaster Recovery (DR)** with failover strategy for production high availability; fully remediated VAPT audit findings including TLS hardening and security headers
+
+---
+
+### 💼 Vendor Management System (VMS) — UAT Platform Deployment
+> **Client:** Poonawalla Fincorp &nbsp;|&nbsp; **Domain:** BFSI / Fintech &nbsp;|&nbsp; **Duration:** Nov 2025 – Present
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-%23009639.svg?style=flat-square&logo=letsencrypt&logoColor=white)
+
+```text
+🎯 Impact  : 4 services deployed | Secure PAM-controlled access | Full CI/CD pipeline
+```
+
+- 🐳 Dockerized **4 services** (VMS Backend, VMS Frontend, BRE Backend, BRE Frontend) with environment-specific versioning on DockerHub and structured Git release tagging
+- 🔁 Maintained Git branch-based CI/CD — `Dev → SIT | UAT → UAT | Master → Production | Hotfix → Production` with versioned release management via **GitHub Actions**
+- 🌐 Configured **Nginx reverse proxy** on UAT server with SSL/TLS termination, domain routing, and per-component proxy rules
+- 🔑 Managed privileged server access using **FortiClient VPN + Iraje PAM** for enterprise-grade access control
 
 ---
 
