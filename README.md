@@ -308,10 +308,6 @@ Hotfix Branch   ──►  Production        (emergency patch)
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=51Vinay&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=51Vinay&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
