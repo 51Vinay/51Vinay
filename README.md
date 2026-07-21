@@ -269,8 +269,8 @@ Hotfix Branch   ──►  Production        (emergency patch)
 2024 ──► Associate DevOps Eng  →  Scale: 15+ Microservices, DevSecOps, VAPT, BFSI Clients
          (Promoted)
 
-2025 ──► Target: AWS SAA-C03 Certification
-2025 ──► Target: CKA (Certified Kubernetes Administrator)
+2026 ──► Target: AWS SAA-C03 Certification
+2026 ──► Target: CKA (Certified Kubernetes Administrator)
 2026 ──► Target: Senior DevOps / Platform Engineer role
 2026 ──► Target: AWS DevOps Professional (DOP-C02)
 2027 ──► Goal  : Lead DevOps / Cloud Architect — designing org-wide cloud strategy
