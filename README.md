@@ -12,9 +12,9 @@
   <a href="mailto:vinaysharma5335@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="tel:+916387145157">
+  <!-- <a href="tel:+916387145157">
     <img src="https://img.shields.io/badge/+91--6387145157-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+  </a> -->
   <img src="https://komarev.com/ghpvc/?username=51Vinay&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
