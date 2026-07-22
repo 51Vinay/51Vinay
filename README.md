@@ -266,7 +266,7 @@ Hotfix Branch   ──►  Production        (emergency patch)
 ```text
 2023 ──► DevOps Trainee        →  Foundation: Docker, K8s, CI/CD, Linux, Terraform
 2024 ──► DevOps Engineer       →  Production: EKS, Jenkins, Prometheus, Multi-env Delivery
-2024 ──► Associate DevOps Eng  →  Scale: 15+ Microservices, DevSecOps, VAPT, BFSI Clients
+2025 ──► Associate DevOps Eng  →  Scale: 15+ Microservices, DevSecOps, VAPT, BFSI Clients
          (Promoted)
 
 2026 ──► Target: AWS SAA-C03 Certification
